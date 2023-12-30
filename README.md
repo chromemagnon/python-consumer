@@ -1,0 +1,1 @@
+docker build -t iot-consumer:1.0.0 .
